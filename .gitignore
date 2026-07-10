@@ -1,0 +1,7 @@
+tools/
+__pycache__/
+resume_preview.png
+*.aux
+*.log
+*.out
+interests_crop.png
